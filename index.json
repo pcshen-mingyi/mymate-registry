@@ -5,7 +5,7 @@
       "versions": {
         "1.0.0": {
           "url": "skills/pm-framework/1.0.0/pm-framework-1.0.0.tar.gz",
-          "sha256": "70be928b79328e361c0d768994f98c68cd4d6c855b190c7b7fb0781416c15553",
+          "sha256": "e93853cc723f9268165750429c1bd087ebb5ead26d8b3acfa6290d7050ca2965",
           "min_client_version": "0.2.0"
         }
       }
