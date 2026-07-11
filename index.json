@@ -1,12 +1,17 @@
 {
   "skills": {
     "pm-framework": {
-      "latest": "1.0.0",
+      "latest": "1.1.0",
       "versions": {
         "1.0.0": {
           "url": "skills/pm-framework/1.0.0/pm-framework-1.0.0.tar.gz",
           "sha256": "b1bbd92bdb2ff748a158e2c6726da0583220d291ec4623a3959bb5e74cee86a7",
           "min_client_version": "0.2.0"
+        },
+        "1.1.0": {
+          "url": "skills/pm-framework/1.1.0/pm-framework-1.1.0.tar.gz",
+          "sha256": "4682b88bba845aae3d896ab1b382f84782a4709cfa71a64c6a6a5031ee6039cc",
+          "min_client_version": "0.3.0"
         }
       },
       "type": "domain"
