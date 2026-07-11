@@ -5,10 +5,22 @@
       "versions": {
         "1.0.0": {
           "url": "skills/pm-framework/1.0.0/pm-framework-1.0.0.tar.gz",
-          "sha256": "a3649d492687cdcf4f2c51b84d6ef32bae6c8950ada13e542dfff5a46ee8ef8c",
+          "sha256": "b1bbd92bdb2ff748a158e2c6726da0583220d291ec4623a3959bb5e74cee86a7",
           "min_client_version": "0.2.0"
         }
-      }
+      },
+      "type": "domain"
+    },
+    "mymate-setup": {
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "skills/mymate-setup/1.0.0/mymate-setup-1.0.0.tar.gz",
+          "sha256": "b83c09294fdcad29bdae2183707aadb4bdfaabf71fb6155a28f576784d1da209",
+          "min_client_version": "0.3.0"
+        }
+      },
+      "type": "operation"
     }
   }
 }
